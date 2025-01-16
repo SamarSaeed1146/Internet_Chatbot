@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+/vendor/
+
+# Build outputs
+/dist/
+/build/
+*.exe
+*.dll
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*~
+
+# Environment and secrets
+.env
+.env.local
+*.pem
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
