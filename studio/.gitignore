@@ -18,6 +18,7 @@ node_modules/
 .env
 .env.local
 *.pem
+.env.example
 
 # Logs
 *.log
