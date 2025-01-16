@@ -1,5 +1,4 @@
 {
-
     "dockerfile_lines": [],
     "graphs": {
       "simple_graph": "./simple.py:graph",
@@ -10,6 +9,5 @@
     "python_version": "3.12",
     "dependencies": [
       "."
-    ]
-    
+    ]   
 }
