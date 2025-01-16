@@ -1,0 +1,6 @@
+langgraph
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+tavily-python
