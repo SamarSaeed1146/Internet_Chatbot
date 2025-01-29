@@ -3,7 +3,7 @@
     "graphs": {
       "internet_graph": "./internet.py:graph"
     },
-    "env": "./.env.example",
+    "env": "./.env",
     "python_version": "3.12",
     "dependencies": [
       "."
